@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Bel Sekolah Otomatis",
+  "description": "Aplikasi bel sekolah otomatis modern dengan penjadwalan jam fleksibel, perpustakaan audio kustom, rekaman suara, dan pengumuman otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
